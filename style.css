@@ -63,7 +63,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(bkgrnd4.jpg) no-repeat;
+    background: url(images/bkgrnd4.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
